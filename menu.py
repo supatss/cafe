@@ -1,1 +1,1 @@
-rint(‘main menu’)​
+print(‘main menu’)​
